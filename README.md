@@ -27,10 +27,12 @@
 
 - [Linkedin](https://www.linkedin.com/in/iglan-cardeal-37538a152/)
 
-- <a href="https://pt.stackoverflow.com/users/95771/cmte-cardeal"><img align="left" src="https://pt.stackoverflow.com/users/flair/95771.png?theme=dark" width="208" height="58" alt="perfil de Cmte Cardeal em Stack Overflow em Portugu&#234;s, Perguntas e respostas para programadores profissionais e entusiastas" title="perfil de Cmte Cardeal em Stack Overflow em Portugu&#234;s, Perguntas e respostas para programadores profissionais e entusiastas">StackOverflow</a>
+- [StackOverflow](https://pt.stackoverflow.com/users/95771/cmte-cardeal)
+<img align="left" src="https://pt.stackoverflow.com/users/flair/95771.png?theme=dark" width="208" height="58" alt="perfil de Cmte Cardeal em Stack Overflow em Portugu&#234;s, Perguntas e respostas para programadores profissionais e entusiastas" title="perfil de Cmte Cardeal em Stack Overflow em Portugu&#234;s, Perguntas e respostas para programadores profissionais e entusiastas"> 
+
+<br>
 
 ---
-
 ### Ferramentas e tecnologias que utilizo
 
 <img align="left" alt="Visual Studio Code" width="38px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
