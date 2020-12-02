@@ -27,7 +27,7 @@
 
 - [Linkedin](https://www.linkedin.com/in/iglan-cardeal-37538a152/)
 
-- [StackOverflow](https://pt.stackoverflow.com/users/95771/cmte-cardeal) <img align="right" src="https://pt.stackoverflow.com/users/flair/95771.png?theme=dark" width="208" height="58" alt="perfil de Cmte Cardeal em Stack Overflow em Portugu&#234;s, Perguntas e respostas para programadores profissionais e entusiastas" title="perfil de Cmte Cardeal em Stack Overflow em Portugu&#234;s, Perguntas e respostas para programadores profissionais e entusiastas"> 
+- [StackOverflow](https://pt.stackoverflow.com/users/95771/cmte-cardeal) <img align="left" src="https://pt.stackoverflow.com/users/flair/95771.png?theme=dark" width="208" height="58" alt="perfil de Cmte Cardeal em Stack Overflow em Portugu&#234;s, Perguntas e respostas para programadores profissionais e entusiastas" title="perfil de Cmte Cardeal em Stack Overflow em Portugu&#234;s, Perguntas e respostas para programadores profissionais e entusiastas"> 
 
 <br>
 
