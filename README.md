@@ -28,9 +28,15 @@
 
 - 📧 cmtcardeal@outlook.com
 
-- [StackOverflow](https://pt.stackoverflow.com/users/95771/cmte-cardeal) <img align="left" src="https://pt.stackoverflow.com/users/flair/95771.png?theme=dark" width="208" height="58" alt="perfil de Cmte Cardeal em Stack Overflow em Portugu&#234;s, Perguntas e respostas para programadores profissionais e entusiastas" title="perfil de Cmte Cardeal em Stack Overflow em Portugu&#234;s, Perguntas e respostas para programadores profissionais e entusiastas"> 
+- [StackOverflow](https://pt.stackoverflow.com/users/95771/cmte-cardeal) <img align="left" src="https://pt.stackoverflow.com/users/flair/95771.png?theme=dark" width="208" height="58" alt="perfil de Cmte Cardeal em Stack Overflow em Portugu&#234;s, Perguntas e respostas para programadores profissionais e entusiastas" title="perfil de Cmte Cardeal em Stack Overflow em Portugu&#234;s, Perguntas e respostas para programadores profissionais e entusiastas">
 
 <br>
+
+### Projetos atualmente online
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iglancardeal&repo=velpac&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iglancardeal&repo=cifra-de-cesar-nextjs&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Ferramentas e tecnologias que utilizo
 
