@@ -34,9 +34,9 @@
 
 ### Projetos atualmente online
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iglancardeal&repo=velpac&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iglancardeal&repo=velpac&theme=vue-dark)](https://github.com/IglanCardeal/velpac)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iglancardeal&repo=cifra-de-cesar-nextjs&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iglancardeal&repo=cifra-de-cesar-nextjs&theme=dracula)](https://github.com/IglanCardeal/cifra-de-cesar-nextjs)
 
 ### Ferramentas e tecnologias que utilizo
 
