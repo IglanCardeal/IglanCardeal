@@ -8,9 +8,12 @@
 
 - ✍️ Objetivos atuais:
 
+  - Realizar o deploy do projeto My Sweet Url (front-end e back-end)
   - Parar de temer o CSS e aprendê-lo de vez 🤣
   - Desenvolver um projeto em NodeJS com framework [AdonisJS](https://adonisjs.com/) e [Restify](http://restify.com/)
   - Aprender e desenvolver aplicativos usando React Native
+  - Aprender mais sobre MySQL e SQL
+  - Contribuir em projetos open-source
 
 - 🧑‍💻 Desenvolvo aplicações back-end MVC e API's REST usando NodeJS e Express
 
