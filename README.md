@@ -12,7 +12,7 @@
   - [x] Implementar Redis em um projeto
   - [ ] Parar de temer o CSS e aprendê-lo de vez 🤣
   - [ ] Desenvolver um projeto em NodeJS com framework [AdonisJS](https://adonisjs.com/) e [Restify](http://restify.com/)
-  - [ ] Aprender e desenvolver aplicativos usando React Native
+  - [ ] Aprender e desenvolver um aplicativo qualquer usando React Native
   - [ ] Aprender sobre AWS
   - [ ] Aprender mais sobre MySQL e SQL
   - [ ] Contribuir em projetos open-source
