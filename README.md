@@ -4,16 +4,18 @@
 
 ### Sou desenvolvedor NodeJS, estudante de Engenharia da computação e piloto privado de avião.
 
-- 🧠 Atualmente aprimorando meus conhecimentos em NodeJS e React Native
+- 🧠 Atualmente aprimorando e aprendendo coisas novas em NodeJS e React Native
 
 - ✍️ Objetivos atuais:
 
-  - Realizar o deploy do projeto My Sweet Url (front-end e back-end)
-  - Parar de temer o CSS e aprendê-lo de vez 🤣
-  - Desenvolver um projeto em NodeJS com framework [AdonisJS](https://adonisjs.com/) e [Restify](http://restify.com/)
-  - Aprender e desenvolver aplicativos usando React Native
-  - Aprender mais sobre MySQL e SQL
-  - Contribuir em projetos open-source
+  - [ ] Realizar o deploy do projeto My Sweet Url (front-end e back-end)
+  - [x] Implementar Redis em um projeto
+  - [ ] Parar de temer o CSS e aprendê-lo de vez 🤣
+  - [ ] Desenvolver um projeto em NodeJS com framework [AdonisJS](https://adonisjs.com/) e [Restify](http://restify.com/)
+  - [ ] Aprender e desenvolver aplicativos usando React Native
+  - [ ] Aprender sobre AWS
+  - [ ] Aprender mais sobre MySQL e SQL
+  - [ ] Contribuir em projetos open-source
 
 - 🧑‍💻 Desenvolvo aplicações back-end MVC e API's REST usando NodeJS e Express
 
