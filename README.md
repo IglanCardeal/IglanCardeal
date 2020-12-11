@@ -52,7 +52,7 @@ Futuramente, mais projetos pessoais estarão online. 💪
 
 ### Ferramentas e tecnologias que utilizo
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iglancardeal&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iglancardeal&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <img align="left" alt="Visual Studio Code" width="38px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
