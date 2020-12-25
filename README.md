@@ -2,7 +2,7 @@
 
 ## aka _cmtecardeal_ or _cmtcardeal_ 🤓
 
-### Sou desenvolvedor NodeJS, estudante de Engenharia da computação e piloto privado de avião.
+### Sou desenvolvedor NodeJS, estudante de Engenharia da computação.
 
 - 🧠 Atualmente aprimorando e aprendendo coisas novas em NodeJS e React Native
 
@@ -20,8 +20,6 @@
 
 - 🧑‍💻 Desenvolvo aplicações back-end MVC e API's REST usando NodeJS e Express
 
-- 🧑‍💻 Desenvolvo aplicações básicas no front-end com React (JavaScript) e Bootstrap (CSS)
-
 - 🤝 Colaborando ativamente com a comunidade de programadores no [StackOverflow](https://pt.stackoverflow.com/) 👀
 
 ### Entre em contato
@@ -36,7 +34,7 @@
 
 <br>
 
-### Projetos atualmente online
+<!-- ### Projetos atualmente online
 
 [Velpac](https://velpac.herokuapp.com/)
 
@@ -48,7 +46,7 @@
 
 <sub>
 Futuramente, mais projetos pessoais estarão online. 💪
-</sub>
+</sub> -->
 
 ### Ferramentas e tecnologias que utilizo
 
