@@ -16,7 +16,7 @@
   - [ ] Parar de temer o CSS e aprendê-lo de vez 🤣
   - [ ] Aprender um pouco mais sobre AWS
 
-- 🧑‍💻 Desenvolvo aplicações back-end MVC e API's REST usando NodeJS e Express
+- 🧑‍💻 Desenvolvo aplicações back-end MVC e API's REST usando NodeJS, Express e TypeScript
 
 - 🤝 Colaborando ativamente com a comunidade de programadores no [StackOverflow](https://pt.stackoverflow.com/) 👀
 
