@@ -8,15 +8,13 @@
 
 - ✍️ Objetivos atuais:
 
-  - [ ] Fazer redeploy de projetos online para domains proprios.
   - [x] Implementar Redis em um projeto
-  - [ ] Realizar o deploy do projeto My Sweet Url (front-end e back-end)
+  - [x] Aprender sobre princípios SOLID
+  - [x] Aprender sobre _Design Patterns_
+  - [x] Continuar ativo na comunidade do StackOverflow em português
   - [ ] Aprender e desenvolver um aplicativo qualquer usando React Native
-  - [ ] Desenvolver um projeto em NodeJS com framework [AdonisJS](https://adonisjs.com/) e [Restify](http://restify.com/)
   - [ ] Parar de temer o CSS e aprendê-lo de vez 🤣
-  - [ ] Aprender sobre AWS
-  - [ ] Aprender mais sobre MySQL e SQL
-  - [ ] Contribuir em projetos open-source
+  - [ ] Aprender um pouco mais sobre AWS
 
 - 🧑‍💻 Desenvolvo aplicações back-end MVC e API's REST usando NodeJS e Express
 
