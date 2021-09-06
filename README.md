@@ -4,7 +4,7 @@
 
 ### Sou desenvolvedor NodeJS, estudante de Engenharia da computação.
 
-- 🧠 Atualmente aprimorando e aprendendo coisas novas em NodeJS e React Native
+- 🧠 Atualmente estou aprimorando e aprendendo NodeJS, Python e React Native
 
 - ✍️ Objetivos atuais:
 
