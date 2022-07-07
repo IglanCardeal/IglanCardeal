@@ -2,21 +2,24 @@
 
 ## aka _cmtecardeal_ or _cmtcardeal_ 🤓
 
-### Sou desenvolvedor NodeJS, estudante de Engenharia da computação.
+### Sou desenvolvedor Node.js
 
-- 🧠 Atualmente estou aprimorando e aprendendo NodeJS, Python e React Native
+Atualmente estou aprimorando meus conhecimentos em NodeJS, TypeScript, testes unitários, aquitetura limpa e boas práticas de código limpo. Já trabalhei/trabalho profissionalmente com frameworks de Node.js Express e Hapi e estou estudando sobre os frameworks Fastify e NestJS. 
+
+No meu dia-a-dia, meu trabalho constitui em: refatorar e limpar códigos, manuntenção e desenvolvimento de novas funcionalidades em aplicações monolitícas e microsserviços, adicionar testes unitários, oriento e ajudo outros devs a resolver problemas e como criar testes unitários usando bibliotecas como JEST e MOCHA/SINON/CHAI, faço revisões de códigos em _Pull Request_, procuro implementar e incentivar boas práticas de commits semânticos, monitoro logs de aplicação no DataDog, Google Cloud Platform e Splunk, realizo deploys via Jenkins, trabalho seguinto metodologia ágil Scrum, e busco sempre fazer um pouco mais sempre que tenho oportunidade. 
 
 - ✍️ Objetivos atuais:
 
   - [x] Implementar Redis em um projeto
-  - [x] Aprender sobre princípios SOLID
+  - [x] Trabalhar com repositório BitBucket
+  - [x] Trabalhar com banco de dadaos relacionais (Postgre, MySQL,...)
+  - [x] Aprender sobre princípios S.O.L.I.D.
   - [x] Aprender sobre _Design Patterns_
   - [x] Continuar ativo na comunidade do StackOverflow em português
-  - [ ] Aprender e desenvolver um aplicativo qualquer usando React Native
-  - [ ] Parar de temer o CSS e aprendê-lo de vez 🤣
+  - [ ] Aprender um pouco mais sobre arquitetura limpa
   - [ ] Aprender um pouco mais sobre AWS
 
-- 🧑‍💻 Desenvolvo aplicações back-end MVC e API's REST usando NodeJS, Express e TypeScript
+- 🧑‍💻 Desenvolvo aplicações back-end MVC e API's REST usando Node.js e TypeScript
 
 - 🤝 Colaborando ativamente com a comunidade de programadores no [StackOverflow](https://pt.stackoverflow.com/) 👀
 
