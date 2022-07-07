@@ -6,9 +6,22 @@
 
 Atualmente estou aprimorando meus conhecimentos em NodeJS, TypeScript, testes unitários, aquitetura limpa e boas práticas de código limpo. Já trabalhei/trabalho profissionalmente com frameworks de Node.js Express e Hapi e estou estudando sobre os frameworks Fastify e NestJS. 
 
-No meu dia-a-dia, meu trabalho constitui em: refatorar e limpar códigos, manuntenção e desenvolvimento de novas funcionalidades em aplicações monolitícas e microsserviços, adicionar testes unitários, oriento e ajudo outros devs a resolver problemas e como criar testes unitários usando bibliotecas como JEST e MOCHA/SINON/CHAI, faço revisões de códigos em _Pull Request_, procuro implementar e incentivar boas práticas de commits semânticos, monitoro logs de aplicação no DataDog, Google Cloud Platform e Splunk, realizo deploys via Jenkins, trabalho seguinto metodologia ágil Scrum, e busco sempre fazer um pouco mais sempre que tenho oportunidade. 
+No meu dia-a-dia, meu trabalho constitui em: 
 
-- ✍️ Objetivos atuais:
+- refatorar e limpar códigos
+- manutenção e desenvolvimento de novas funcionalidades em aplicações monolitícas e microsserviços
+- adicionar testes unitários e buscar maiores coberturas de testes
+- oriento e ajudo outros devs (principalmente da minha antiga squad :heart:) a resolver problemas e como implementar testes unitários usando bibliotecas como JEST e MOCHA/SINON/CHAI
+- faço revisões de códigos em _Pull Request_
+- procuro implementar e incentivar boas práticas de commits semânticos
+- monitoro logs de aplicação no DataDog, Google Cloud Platform e Splunk
+- realizo deploys via Jenkins
+- trabalho em squad seguinto metodologia ágil Scrum
+- e busco sempre fazer um pouco mais, sempre que tenho oportunidade... 
+
+---
+
+✍️ Meus bjetivos atuais:
 
   - [x] Implementar Redis em um projeto
   - [x] Trabalhar com repositório BitBucket
@@ -17,7 +30,9 @@ No meu dia-a-dia, meu trabalho constitui em: refatorar e limpar códigos, manunt
   - [x] Aprender sobre _Design Patterns_
   - [x] Continuar ativo na comunidade do StackOverflow em português
   - [ ] Aprender um pouco mais sobre arquitetura limpa
+  - [ ] Aprender um pouco mais sobre Jenkins e Kubernetes
   - [ ] Aprender um pouco mais sobre AWS
+  - [ ] Aprender Python
 
 - 🧑‍💻 Desenvolvo aplicações back-end MVC e API's REST usando Node.js e TypeScript
 
