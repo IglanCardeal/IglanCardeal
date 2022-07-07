@@ -32,9 +32,11 @@ No meu dia-a-dia, meu trabalho constitui em:
   - [ ] Aprender um pouco mais sobre AWS
   - [ ] Aprender Python
 
-- 🤝 Colaborando ativamente com a comunidade de programadores no [StackOverflow](https://pt.stackoverflow.com/) 👀
+🤝 Colaborando ativamente com a comunidade de programadores no [StackOverflow](https://pt.stackoverflow.com/) 👀
 
 ### Entre em contato
+
+- Discord: `Cardeal#0563`
 
 - [<img align="left" alt="cmtecardeal linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> LinkedIn](https://www.linkedin.com/in/iglan-cardeal/)
 
@@ -45,20 +47,6 @@ No meu dia-a-dia, meu trabalho constitui em:
 - [StackOverflow](https://pt.stackoverflow.com/users/95771/cmte-cardeal) <img align="left" src="https://pt.stackoverflow.com/users/flair/95771.png?theme=dark" width="208" height="58" alt="perfil de Cmte Cardeal em Stack Overflow em Portugu&#234;s, Perguntas e respostas para programadores profissionais e entusiastas" title="perfil de Cmte Cardeal em Stack Overflow em Portugu&#234;s, Perguntas e respostas para programadores profissionais e entusiastas">
 
 <br>
-
-<!-- ### Projetos atualmente online
-
-[Velpac](https://velpac.herokuapp.com/)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iglancardeal&repo=velpac&theme=vue-dark)](https://github.com/IglanCardeal/velpac)
-
-[Cifra de César](https://cifra-de-cesar-nextjs.vercel.app/)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=iglancardeal&repo=cifra-de-cesar-nextjs&theme=dracula)](https://github.com/IglanCardeal/cifra-de-cesar-nextjs)
-
-<sub>
-Futuramente, mais projetos pessoais estarão online. 💪
-</sub> -->
 
 ### Ferramentas e tecnologias que utilizo
 
