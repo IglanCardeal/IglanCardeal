@@ -19,7 +19,7 @@ No meu dia-a-dia, meu trabalho constitui em:
 
 ---
 
-✍️ Meus bjetivos atuais:
+✍️ Meus objetivos atuais:
 
   - [x] Implementar Redis em um projeto
   - [x] Trabalhar com repositório BitBucket
