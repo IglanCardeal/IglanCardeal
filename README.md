@@ -1,7 +1,5 @@
 # Olá, eu sou Iglan Cardeal 👋
 
-## aka _cmtecardeal_ or _cmtcardeal_ 🤓
-
 ### Sou desenvolvedor Node.js
 
 Atualmente estou aprimorando meus conhecimentos em NodeJS, TypeScript, testes unitários, aquitetura limpa e boas práticas de código limpo. Já trabalhei/trabalho profissionalmente com frameworks de Node.js Express e Hapi e estou estudando sobre os frameworks Fastify e NestJS. 
