@@ -27,8 +27,7 @@ No meu dia-a-dia, meu trabalho constitui em:
   - [x] Aprender sobre princípios S.O.L.I.D.
   - [x] Aprender sobre _Design Patterns_
   - [x] Continuar ativo na comunidade do StackOverflow em português
-  - [ ] Aprender um pouco mais sobre arquitetura limpa
-  - [ ] Aprender um pouco mais sobre Jenkins e Kubernetes
+  - [x] Aprender um pouco mais sobre arquitetura limpa
   - [ ] Aprender um pouco mais sobre AWS
   - [ ] Aprender Python
 
