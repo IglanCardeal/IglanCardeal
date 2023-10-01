@@ -9,7 +9,7 @@ No meu dia-a-dia, meu trabalho constitui em:
 - refatorar e limpar códigos
 - manutenção e desenvolvimento de novas funcionalidades em aplicações monolitícas e microsserviços
 - adicionar testes unitários e buscar maiores coberturas de testes
-- oriento e ajudo outros devs (principalmente da minha antiga squad :heart:) a resolver problemas e como implementar testes unitários usando bibliotecas como JEST e MOCHA/SINON/CHAI
+- oriento e ajudo outros devs a resolver problemas e como implementar testes unitários usando bibliotecas como JEST e MOCHA/SINON/CHAI
 - faço revisões de códigos em _Pull Request_
 - procuro implementar e incentivar boas práticas de commits semânticos
 - monitoro logs de aplicação no DataDog, Google Cloud Platform e Splunk
