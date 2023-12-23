@@ -30,6 +30,7 @@ No meu dia-a-dia, meu trabalho constitui em:
   - [x] Aprender um pouco mais sobre arquitetura limpa
   - [x] Aprender um pouco mais sobre AWS
   - [ ] Aprender Go
+  - [ ] Aprender Java
 
 🤝 Colaborando ativamente com a comunidade de programadores no [StackOverflow](https://pt.stackoverflow.com/) 👀
 
