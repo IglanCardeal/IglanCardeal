@@ -38,7 +38,7 @@ No meu dia-a-dia, meu trabalho constitui em:
 - [ ] efetivado como desenvolvedor sênior 
 - [ ] Tech Lead
 
-🤝 Colaborando ativamente com a comunidade de programadores no [StackOverflow](https://pt.stackoverflow.com/) e a [Tech Leads Club](https://www.techleads.club/c/comece-aqui) 👀
+🤝 Colaborando ativamente com a comunidade de programadores no [StackOverflow](https://pt.stackoverflow.com/) e na [Tech Leads Club](https://www.techleads.club/c/comece-aqui) 👀
 
 ### Entre em contato
 
@@ -47,6 +47,16 @@ No meu dia-a-dia, meu trabalho constitui em:
 - [StackOverflow](https://pt.stackoverflow.com/users/95771/cmte-cardeal) <img align="left" src="https://pt.stackoverflow.com/users/flair/95771.png?theme=dark" width="208" height="58" alt="perfil de Cmte Cardeal em Stack Overflow em Portugu&#234;s, Perguntas e respostas para programadores profissionais e entusiastas" title="perfil de Cmte Cardeal em Stack Overflow em Portugu&#234;s, Perguntas e respostas para programadores profissionais e entusiastas">
 
 <br>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=iglancardeal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iglancardeal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
 
 ### Ferramentas e tecnologias que utilizo
 
