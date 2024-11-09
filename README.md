@@ -30,8 +30,7 @@ No meu dia-a-dia, meu trabalho constitui em:
   - [x] Continuar ativo na comunidade do StackOverflow em português
   - [x] Aprender um pouco mais sobre arquitetura limpa
   - [x] Aprender um pouco mais sobre AWS
-  - [ ] Aprender Go
-  - [ ] Aprender Java
+  - [ ] Aprender React Native
 
 👀 Meus planos de carreira:
 
