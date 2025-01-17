@@ -2,7 +2,7 @@
 
 ### Sou desenvolvedor Back-End Node.js
 
-Atualmente estou aprimorando meus conhecimentos em NodeJS, TypeScript, testes unitários, aquitetura limpa e boas práticas de código limpo. Já trabalhei/trabalho profissionalmente com frameworks de Node.js NestJS, Express e Hapi. Uso diversos banco de dados relacionais e não relacionais e de cache. Trabalhei com infraestrutura da AWS, Heroku e GCP.
+Atualmente estou aprimorando meus conhecimentos em NodeJS, TypeScript, testes unitários, aquitetura limpa e boas práticas de código limpo. Já trabalhei/trabalho profissionalmente com frameworks de Node.js NestJS, Express e Hapi. Uso diversos banco de dados relacionais e não relacionais e de cache. Trabalhei com infraestrutura em cloud da AWS, Heroku e GCP.
 
 No meu dia-a-dia, meu trabalho constitui em: 
 
@@ -14,6 +14,8 @@ No meu dia-a-dia, meu trabalho constitui em:
 - procuro implementar e incentivar boas práticas de commits semânticos
 - monitoro logs de aplicação no DataDog, Google Cloud Platform e Splunk
 - realizo deploys via Jenkins
+- deploy de lambdas via serverless framework
+- manutenção e criação de APIs REST e GraphQL
 - trabalho em squad seguinto metodologia ágil Scrum e Kanban
 - aplico práticas de XP durante desenvolvimento
 - e busco sempre fazer um pouco mais, sempre que tenho oportunidade... 
@@ -29,8 +31,10 @@ No meu dia-a-dia, meu trabalho constitui em:
   - [x] Aprender sobre _Design Patterns_
   - [x] Continuar ativo na comunidade do StackOverflow em português
   - [x] Aprender um pouco mais sobre arquitetura limpa
-  - [x] Aprender um pouco mais sobre AWS
-  - [ ] Aprender React Native
+  - [ ] Certificação Cloud Practitioner AWS
+  - [x] Aprender um pouco mais de React Native
+  - [ ] Aprender um pouco mais de Java
+  - [ ] Aprender um pouco mais de GOlang
 
 👀 Meus planos de carreira:
 
